@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="SolvingProblems.csproj" />
+  <Project Path="SolvingProblems.csproj">
+    <BuildType Project="Debug" />
+  </Project>
 </Solution>
